@@ -1,0 +1,24 @@
+{
+  "name": "cron-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibbly/node-cron-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fibbly/node-cron-example/issues"
+  },
+  "homepage": "https://github.com/fibbly/node-cron-example#readme",
+  "dependencies": {
+    "node-cron": "^3.0.0"
+  }
+}
